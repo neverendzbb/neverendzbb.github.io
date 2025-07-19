@@ -1,6 +1,7 @@
 ---
 title: 404
 permalink: /404
+permalink: /404/
 layout: false 
 comments: false
 aside: false
